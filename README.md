@@ -73,6 +73,39 @@ Each certificate stored in this repository reflects a validated learning milesto
 - Identify key project management deliverables  
 - Apply project management concepts in a practical project scenario  
 
+---
+
+---
+
+## Project Exercises & Certifications trimester 3
+
+### 1. Cloud Computing Fundamentals
+
+**Objectives**
+
+- Explain the fundamental concepts of cloud computing
+- Understand the history and evolution of cloud technologies
+- Identify common cloud computing terminology
+- Distinguish between the different cloud deployment models
+- Understand the various cloud service models
+- Explain the role of virtualization in cloud computing
+- Identify different types of cloud storage and their use cases
+- Recognize the benefits and challenges of cloud computing
+
+---
+
+### 2. Cybersecurity Fundamentals
+
+**Objectives**
+
+- Identify major cyber threat actors and understand their motivations
+- Recognize common types of cyberattacks and security threats
+- Explain how social engineering techniques are used by attackers
+- Analyze real-world cybersecurity incidents through case studies
+- Understand global approaches to cybersecurity risk management
+- Explain the fundamental principles of cryptography
+- Identify common security controls used to prevent and detect cyberattacks
+- Understand the importance of cybersecurity in protecting organizations and individuals
 
 ---
 
