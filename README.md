@@ -1,5 +1,3 @@
-![Project banner](./assets/banner.png)
-
 # IBM Certification Project – Open Source & Agile Foundations
 
 ## Introduction
