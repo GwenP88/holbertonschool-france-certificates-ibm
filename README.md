@@ -1,4 +1,4 @@
-# IBM Certification Project – Open Source & Agile Foundations
+# IBM SkillsBuild Certifications
 
 ## Introduction
 
